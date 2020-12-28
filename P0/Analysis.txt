@@ -1,0 +1,14 @@
+Task 0:
+    O(1) = Constant
+    
+Task 1:
+    O(n) = Linear
+    
+Task 2:
+    O(n) = Linear
+    
+Task 3:
+    O(nlog(n)) = log Linear
+    
+Task 4:
+    O(nlog(n)) = Log Linear
